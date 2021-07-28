@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 -->
 
-- :heavy_check_mark: Work in progress
+:heavy_check_mark: Work in progress
 
